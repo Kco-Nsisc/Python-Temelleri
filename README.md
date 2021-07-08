@@ -1,7 +1,7 @@
 # Python-Temelleri
 Herkese merhaba. Bu projede Atıl Samancıoğlu' nun Btk Akademi' deki "Veri Bilimi için Python ve Tenserflow" eğtimindeki (https://www.btkakademi.gov.tr/portal/course/veri-bilimi-icin-python-ve-tensorflow-11705#!/about) python temellerinin anlatıldığı dosyaları açıkladım ve python-yazılım hakkındaki bazı soruları elimden geldiğince yanıtlamaya çalıştım. Umarım işinize yarar.(Atıl Samancıoğlu' nun discord sunucusu:  https://discord.io/hack-ware veya https://discord.gg/hackware)
 
-Not 1: Benim önerim sadece benim dosyalarıma bakarak değil yukarıda bahsettiğim eğitim ile birlikte izleyin.
+Not 1: Benim önerim sadece benim dosyalarıma bakarak değil yukarıda bahsettiğim eğitim ile birlikte izleyin. Çünkü ben bu notları aklıma bir şey takılırsa videoyu bulup izlemekle uğraşmamak için hazırladım.
 
 Not 2: Ben windows kullanıyorum başka bir işletim sistemi kullanıyorsanız kurulumlarda farklılık olabilir küçük araştırmalar yaparak sorununuzu giderebilirsiniz.
 
