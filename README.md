@@ -1,10 +1,13 @@
 # Python-Temelleri
 Herkese merhaba. Bu projede Atıl Samancıoğlu' nun Btk Akademi' deki "Veri Bilimi için Python ve Tenserflow" eğtimindeki (https://www.btkakademi.gov.tr/portal/course/veri-bilimi-icin-python-ve-tensorflow-11705#!/about) python temellerinin anlatıldığı dosyaları açıkladım ve python-yazılım hakkındaki bazı soruları elimden geldiğince yanıtlamaya çalıştım. Umarım işinize yarar.(Atıl Samancıoğlu' nun discord sunucusu:  https://discord.io/hack-ware veya https://discord.gg/hackware)
-Not 1: Ben windows kullanıyorum başka bir işletim sistemi kullanıyorsanız kurulumlarda farklılık olabilir küçük araştırmalar yaparak sorununuzu giderebilirsiniz.
 
-Not 2: Dosyalar jupyter notebook da çalışan .ipynb dosyalarıdır. Yakında .py uzantılı halleri de eklenecektir. Eğer anaconda' yı (dolaylı yoldan jupyter notebook' u) kurmak istiyorsanız bu videodan faydalanabilirsiniz: https://youtu.be/ou8BZnt0WLY Kurulumdan sonra komut istemcisine jupyter notebook yazarsanız internet üzerinden jupyter notebook' u kullanabilirsiniz. (Eğer kurulumla uğraşmak istemiyorsanız google nin geliştirdiği .ipynb dosyalarını açan colab ı da internet üzerinden kullanabilirisiniz.)
+Not 1: Benim önerim sadece benim dosyalarıma bakarak değil yukarıda bahsettiğim eğitim ile birlikte izleyin.
 
-Not 3: Bana ulaşmak isterseniz discord üzerinden (Kco Nsisc ツ#0001) ulaşabilirsiniz. Hadi şimdi soruları cevaplayalım.
+Not 2: Ben windows kullanıyorum başka bir işletim sistemi kullanıyorsanız kurulumlarda farklılık olabilir küçük araştırmalar yaparak sorununuzu giderebilirsiniz.
+
+Not 3: Dosyalar jupyter notebook da çalışan .ipynb dosyalarıdır. Yakında .py uzantılı halleri de eklenecektir. Eğer anaconda' yı (dolaylı yoldan jupyter notebook' u) kurmak istiyorsanız bu videodan faydalanabilirsiniz: https://youtu.be/ou8BZnt0WLY Kurulumdan sonra komut istemcisine jupyter notebook yazarsanız internet üzerinden jupyter notebook' u kullanabilirsiniz. (Eğer kurulumla uğraşmak istemiyorsanız google nin geliştirdiği .ipynb dosyalarını açan colab ı da internet üzerinden kullanabilirisiniz.)
+
+Not 4: Bana ulaşmak isterseniz discord üzerinden (Kco Nsisc ツ#0001) ulaşabilirsiniz. Hadi şimdi soruları cevaplayalım.
 
 İlk olarak yazılım nedir? Yazılım Tdk' ya göre bir bilgisayarda donanıma hayat veren ve bilgi işlemde kullanılan programlar, yordamlar, programlama dilleri ve belgelemelerin tümüdür. Yani bilgisayarımızda bulunan uygulamalar, programlama dilleri (biz bu projede python' u anlatacağız) birer yazılımdır. Bu yazılımları geliştirenler de yazılım mühendisi oluyor. 
 Peki biz neden durduk yere iş çıkarıp python, yazılım öğrenelim? Öğrenelim çünkü bütün alanlar bilgisayara, teknolojiye kayıyor. Mesela mimarlar önceden koskoca kağıtlara bina taslaklarını 2 boyuttan bakarak çiziyorlardı. Artık bilgisayarlarda çok daha kolay bir şekilde, 3 boyuttan bakarak modelleyebilmektedirler. Aklıllara şu soru gelebilir ee sadece yazılım mı öğrenebiliriz? Tabiki de hayır. Video montajı, yabancı dil, dijital pazarlama vb. öğrenebileceğmiz bazı konular. Ancak biz burada yazılım öğreneceğiz :) 
